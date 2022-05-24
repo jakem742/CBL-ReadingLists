@@ -20,22 +20,22 @@
     <Book Series="All-New Hawkeye" Number="5" Volume="2015" Year="2015" Format="Limited Series">
       <Id>12c3c19c-f413-44ad-861e-343e7e09c9d9</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="1" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="1" Volume="2016" Year="2016" Format="Limited Series">
       <Id>c1d1a787-75c4-46a7-849a-d72fb31f97df</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="2" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="2" Volume="2016" Year="2016" Format="Limited Series">
       <Id>47395cb5-fea7-48c0-ac3d-a0672817d04a</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="3" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="3" Volume="2016" Year="2016" Format="Limited Series">
       <Id>0854fc5f-d604-4546-979a-9278db955237</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="4" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="4" Volume="2016" Year="2016" Format="Limited Series">
       <Id>416710d1-c6f0-42a8-82bf-25ab92bbb2be</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="5" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="5" Volume="2016" Year="2016" Format="Limited Series">
       <Id>aadbb66a-8eab-4c15-a91e-db2f729767da</Id>
     </Book>
-    <Book Series="All-New Hawkeye" Number="6" Volume="2015" Year="2016" Format="Limited Series">
+    <Book Series="All-New Hawkeye" Number="6" Volume="2016" Year="2016" Format="Limited Series">
       <Id>bce378f3-1a54-4f19-bbb8-46999a2ae375</Id>
     </Book>
     <Book Series="All-New All-Different Marvel Point One" Number="1" Volume="2015" Year="2015" Format="Crossover">
