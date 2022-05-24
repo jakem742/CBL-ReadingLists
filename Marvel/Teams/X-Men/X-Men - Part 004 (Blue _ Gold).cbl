@@ -848,16 +848,16 @@
     <Book Series="Cable" Number="15" Volume="1993" Year="1994" Format="Main Series">
       <Id>5033b82d-7352-433c-b4b0-251405f4ca34</Id>
     </Book>
-    <Book Series="Adventures of Cyclops and Phoenix" Number="1" Volume="1994" Year="1994" Format="Limited Series">
+    <Book Series="The Adventures of Cyclops and Phoenix" Number="1" Volume="1994" Year="1994" Format="Limited Series">
       <Id>d5d9b025-5a72-4079-b0c8-ea76209908b6</Id>
     </Book>
-    <Book Series="Adventures of Cyclops and Phoenix" Number="2" Volume="1994" Year="1994" Format="Limited Series">
+    <Book Series="The Adventures of Cyclops and Phoenix" Number="2" Volume="1994" Year="1994" Format="Limited Series">
       <Id>82239610-f1f1-4df5-8ca4-293fe0cbafb3</Id>
     </Book>
-    <Book Series="Adventures of Cyclops and Phoenix" Number="3" Volume="1994" Year="1994" Format="Limited Series">
+    <Book Series="The Adventures of Cyclops and Phoenix" Number="3" Volume="1994" Year="1994" Format="Limited Series">
       <Id>e2923942-6dc5-48ec-8acc-69192c7de2b2</Id>
     </Book>
-    <Book Series="Adventures of Cyclops and Phoenix" Number="4" Volume="1994" Year="1994" Format="Limited Series">
+    <Book Series="The Adventures of Cyclops and Phoenix" Number="4" Volume="1994" Year="1994" Format="Limited Series">
       <Id>f5c2d118-395c-4dd1-9ac4-aae7859965e4</Id>
     </Book>
     <Book Series="X-Men" Number="35" Volume="1991" Year="1994" Format="Main Series">
